@@ -1480,3 +1480,8 @@ a.scrolldown {
     width: 100%;
     height: 600px;
 }
+
+.logo{
+    height: 60px;
+    margin-top: -15px;
+}
